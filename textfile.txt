@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Here is my code
 
 add new line
 
 add third commit
+=======
+Here is my code
+>>>>>>> parent of f24b360... second commit
